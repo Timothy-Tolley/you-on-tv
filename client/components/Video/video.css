@@ -1,0 +1,14 @@
+.video-cont {
+  width: 90%;
+  height: 90%;
+  display: flex;
+  z-index: 0;
+}
+
+.video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+}
